@@ -22,18 +22,20 @@
     "url": "https://prometheusai.ch",
     "icon": "https://prometheusai.ch/logowhite.svg",
     "slug": "prometheus-ai",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 814,
-    "timeDay": 814,
-    "timeWeek": 814,
-    "timeMonth": 814,
-    "timeYear": 814,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 879,
+    "timeDay": 879,
+    "timeWeek": 879,
+    "timeMonth": 879,
+    "timeYear": 879,
+    "dailyMinutesDown": {
+      "2024-10-15": 0
+    }
   },
   {
     "name": "Gogym server",
