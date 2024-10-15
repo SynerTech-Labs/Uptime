@@ -11,8 +11,10 @@ sites:
     url: https://prometheusai.ch
     icon : https://prometheusai.ch/logowhite.svg
 
-  - name: Supabase Status
+  - name: Gogym server
     url: https://status.supabase.com/api/v2/status.json
+    icon : https://gogym.ch/wp-content/uploads/2022/09/cropped-logo-transparent2version2-2.png
+
     expectedStatusCodes:
       - 200
     __dangerous__body_down_if_text_missing: '"description":"All Systems Operational"'
