@@ -5,9 +5,10 @@ repo: Uptime
 sites:
   - name: PrometheusAI
     url: https://prometheusai.ch
-
+    icon : https://prometheusai.ch/logowhite.svg
   - name: Synertech labs
     url: https://synertech-labs.ch
+    icon: https://synertech-labs.ch/logo.avif
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
