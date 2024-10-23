@@ -22,7 +22,7 @@
     "url": "https://prometheusai.ch",
     "icon": "https://prometheusai.ch/logowhite.svg",
     "slug": "prometheus-ai",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -34,6 +34,7 @@
     "timeMonth": 956,
     "timeYear": 956,
     "dailyMinutesDown": {
+      "2024-10-23": 0,
       "2024-10-15": 32
     }
   },
