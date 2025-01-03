@@ -48,19 +48,19 @@
     "url": "https://status.supabase.com/api/v2/status.json",
     "icon": "https://gogym.ch/wp-content/uploads/2022/09/cropped-logo-transparent2version2-2.png",
     "slug": "gogym-server",
-    "status": "down",
+    "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.68%",
     "time": 228,
-    "timeDay": 169,
-    "timeWeek": 237,
-    "timeMonth": 220,
+    "timeDay": 194,
+    "timeWeek": 238,
+    "timeMonth": 221,
     "timeYear": 228,
     "dailyMinutesDown": {
-      "2025-01-03": 0,
+      "2025-01-03": 7,
       "2024-11-12": 366
     }
   }
